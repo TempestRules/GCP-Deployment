@@ -285,7 +285,7 @@ const MapComponent = () => {
 
 const GoogleMap = () => {
   return (
-    <Wrapper apiKey={"AIzaSyCAHMNRPIhVer4dB3J-Hr2xzavL1FhV1Lc"} render={render}>
+    <Wrapper apiKey={"https://www.youtube.com/watch?v=dQw4w9WgXcQ"} render={render}>
       <MapComponent />
     </Wrapper>
   );
